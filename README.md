@@ -7,6 +7,8 @@ pip install requests
 irisclassificationmore.py
 dnn_iris2.py ?
 
+pytorch06_grad_descent_optimizer.py
+
 
 ## Machine Learning and Deep Learning Tutorial
 _Machine Learning and Deep learning Tutorial_ (shortly _ML/DL Tutorial_) has been initiated to teach undergraduate students in [SEOULTECH](https://en.seoultech.ac.kr/) about basic concepts of machine learning and deep learning with hands-on practices using [scikit-learn](https://scikit-learn.org/) and  [PyTorch](https://pytorch.org/). Even though there are so many good lectures and tutorials on machine learning and deep learning, I would like to share my viewpoint and summary with humble slides and examples because I also have learned many things from open and public lectures, tutorials, and articles. I hope that my slides and examples are also helpful to others.
