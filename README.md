@@ -1,4 +1,10 @@
+venv
+pip install pandas
+pip install requests
 
+
+
+irisclassificationmore.py
 dnn_iris2.py ?
 
 
